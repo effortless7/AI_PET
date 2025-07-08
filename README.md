@@ -1,7 +1,7 @@
 # petcare
 全国大学生嵌入式大赛
 
-[![视频封面](media/ppt_pages-to-jpg-0001.jpg)](video.mp4)
+https://github.com/user-attachments/assets/839aec75-f5ec-41f9-bf42-e57152bc6812
 
 # 作品名称  
 **基于RK3588异构协同的宠物智能监控与陪伴机器人**  
