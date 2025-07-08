@@ -1,5 +1,6 @@
-# petcare
-全国大学生嵌入式大赛
+# 基于RK3588异构协同的宠物智能监控与陪伴机器人
+2025年全国大学生嵌入式芯片与系统设计竞赛--瑞芯微赛道
+搭载RK3588芯片的飞凌嵌入式ELF 2开发板 AI人工智能视觉应用
 
 https://github.com/user-attachments/assets/839aec75-f5ec-41f9-bf42-e57152bc6812
 
