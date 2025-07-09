@@ -1,5 +1,6 @@
 # 基于RK3588异构协同的宠物智能监控与陪伴机器人
 2025年全国大学生嵌入式芯片与系统设计竞赛--瑞芯微赛道
+
 搭载RK3588芯片的飞凌嵌入式ELF 2开发板 AI人工智能视觉应用
 
 https://github.com/user-attachments/assets/839aec75-f5ec-41f9-bf42-e57152bc6812
@@ -205,7 +206,7 @@ https://github.com/user-attachments/assets/839aec75-f5ec-41f9-bf42-e57152bc6812
 
 #### 3.2.2 电路成果  
 ![](media/image15.jpeg)  
-![](media/image16.png)  
+![](media/1.png)  
 
 #### 3.2.3 软件成果  
 ![](media/image17.png)  
